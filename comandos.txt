@@ -1,0 +1,23 @@
+1.- para iniciar un nuevo proyecto de node
+
+    npm init -y
+
+2.- instalar el framewoork de node express
+
+    npm i express
+
+2.- instalar un motor de plantillas para poder usar código HTML
+
+    npm i ejs
+
+3.- instalar morgan para monitorear las peticiones al servidor
+
+    npm i morgan
+
+4.- instalar nodemon para que el servidor se reinicie solo con algún cambio
+
+    npm i nodemon -D
+
+5.- instalar el modulo uuid para generar IDs aleatorios
+
+    npm i uuid
